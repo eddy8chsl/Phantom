@@ -1,30 +1,10 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Phantom
 
+Initiation au PHP : Explorer le développement web dynamique en transformant des maquettes HTML/CSS en interfaces interactives.
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+## Explication de phantom
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Voici Phantom, un design simple construit autour d'une grille de grandes tuiles d'images colorées et semi-interactives (dont vous pouvez avoir plus ou moins de tuiles).
+colorées et semi-interactives (vous pouvez en avoir autant ou aussi peu que vous le souhaitez). Il utilise certaines techniques de
+SVG et des techniques d'animation que j'ai expérimentées dans le cadre de mon autre projet
+dont vous avez peut-être entendu parler (https://carrd.co), et inclut une page générique pratique pour tout ce que vous voulez.
